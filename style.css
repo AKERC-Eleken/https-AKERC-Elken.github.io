@@ -4,7 +4,7 @@ header{
 }
 .header-title{
     font-family: "Noto Sans JP", sans-serif;
-    font-size: 35px;
+    font-size: 20px;
     height: 80px;
     line-height: 80px;
 }
@@ -21,23 +21,24 @@ main{
 }
 h1{
     font-family:  "Noto Sans JP", sans-serif;
+    font-size: 20px;
 }
 .calendar{
     display: flex;
     flex-wrap: wrap;
-    width: 600px;
+    width: 450px;
     margin: 0 auto;
     overflow: hidden;
     list-style:none
 }
 p{
-    font-size: 30px;
+    font-size: 15px;
     font-family: "Noto Sans JP", sans-serif;
 }
 .map{
     display: flex;
     flex-wrap: wrap;
-    width: 600px;
+    width: 450px;
     margin: 0 auto;
 　　overflow: hidden;
     list-style:none
@@ -49,6 +50,7 @@ footer{
 }
 h2{
     font-family:  "Noto Sans JP", sans-serif;
+    font-size: 15px;
 }
 .menu{
     display: flex;
