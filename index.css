@@ -22,7 +22,7 @@ explaining{
 h1{
     font-family:  "Noto Sans JP", sans-serif;
 }
-.calendar{
+calendar{
     display: flex;
     flex-wrap: wrap;
     width: 600px;
