@@ -2,7 +2,7 @@ header{
     background-color: #758492;
     height: 80px;
 }
-.header-title{
+header-title{
     font-family: "Noto Sans JP", sans-serif;
     font-size: 35px;
     height: 80px;
@@ -11,7 +11,7 @@ header{
 main{
     text-align: center;
 }
-.explaining{
+explaining{
     display: flex;
     flex-wrap: wrap;
     width: 700px;
@@ -34,7 +34,7 @@ p{
     font-size: 30px;
     font-family: "Noto Sans JP", sans-serif;
 }
-.map{
+map{
     display: flex;
     flex-wrap: wrap;
     width: 600px;
@@ -50,7 +50,7 @@ footer{
 h2{
     font-family:  "Noto Sans JP", sans-serif;
 }
-.menu{
+menu{
     display: flex;
     flex-wrap: wrap;
     width: 170px;
@@ -58,7 +58,7 @@ h2{
 	overflow: hidden;
     list-style:none
 }
-.A {
+A {
     display: inline-block; 
     height: 80px;
     margin: 0 5px;
