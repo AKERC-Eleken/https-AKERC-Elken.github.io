@@ -16,7 +16,7 @@ explaining{
     flex-wrap: wrap;
     width: 700px;
     margin: 0 auto;
-	overflow: hidden;
+    overflow: hidden;
     list-style:none
 }
 h1{
@@ -27,7 +27,7 @@ calendar{
     flex-wrap: wrap;
     width: 600px;
     margin: 0 auto;
-	overflow: hidden;
+    overflow: hidden;
     list-style:none
 }
 p{
@@ -55,7 +55,7 @@ menu{
     flex-wrap: wrap;
     width: 170px;
     margin: 0 auto;
-	overflow: hidden;
+    overflow: hidden;
     list-style:none
 }
 A {
